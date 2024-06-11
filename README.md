@@ -1,4 +1,3 @@
-```markdown
 # Workshop CI/CD sur Node.js
 
 ## Introduction
@@ -11,14 +10,14 @@ Ce workshop a pour but de vous guider à travers la configuration d'un pipeline 
 
 ### 2. Initialisation du Projet Node.js
 - Initialisez un nouveau projet Node.js avec la commande :
-  ```sh
+  ```
   npm init
   ```
 - Ajoutez un fichier `index.js` (vide pour l'instant).
 
 ### 3. Ajout de Jest
 - Ajoutez la dépendance Jest avec la commande :
-  ```sh
+  ```
   npm install jest
   ```
 - Créez un dossier `__tests__` et y incluez un fichier `index.spec.js` avec le contenu suivant :
